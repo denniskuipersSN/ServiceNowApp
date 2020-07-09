@@ -8,7 +8,7 @@
         <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
         <global_search_data display_value="MonitorDashboard Search Context Config">fc79c01adb1e001074d984cc2996197a</global_search_data>
         <name>MonitorDashboard</name>
-        <navigation_type>tab</navigation_type>
+        <navigation_type>breadcrumb</navigation_type>
         <notifications_enabled>true</notifications_enabled>
         <primary_color/>
         <search_enabled>true</search_enabled>
@@ -16,14 +16,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-14 07:47:20</sys_created_on>
         <sys_id>b079c81adb1e001074d984cc29961981</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>MonitorDashboard</sys_name>
         <sys_package display_value="MonitorDashboard" source="x_snc_monitordashb">8c98cc96db1e001074d984cc299619a9</sys_package>
         <sys_policy/>
         <sys_scope display_value="MonitorDashboard">8c98cc96db1e001074d984cc299619a9</sys_scope>
         <sys_update_name>sys_aw_master_config_b079c81adb1e001074d984cc29961981</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-14 07:47:20</sys_updated_on>
+        <sys_updated_on>2020-07-09 07:43:52</sys_updated_on>
         <user_preference_controls_enabled>true</user_preference_controls_enabled>
         <workspace_logo/>
         <workspace_url>monitordashboard</workspace_url>
